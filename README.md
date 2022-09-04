@@ -1,3 +1,3 @@
 # frontend-shopsite
 
-1일차
+연습공간
